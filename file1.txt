@@ -1,1 +1,1 @@
-Change from conflict branch
+Different change from master
